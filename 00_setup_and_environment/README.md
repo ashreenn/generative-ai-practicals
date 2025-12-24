@@ -1,1 +1,1 @@
-Setup and environment related practicals
+Machine Learning for NLP(Prerequisites)
